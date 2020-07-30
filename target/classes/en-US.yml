@@ -1,0 +1,57 @@
+# English Language file.
+Available-Rune-Item: "&a&lOwned Rune Slot"
+Unavailable-Rune-Item: "&c&lUnowned Rune Slot"
+Successful-Shatter: "&a>&7 You shattered the &a%rune%&r&7 rune!"
+Activate-Messsage: "&a>&7 The %rune% rune is now &aACTIVE!"
+Deactivate-Messsage: "&c>&7 The %rune% rune is now &cDEACTIVE!"
+Already-Active: "&c>&7 The %rune% rune is already active!"
+Full-Inventory: "&c>&7 Please clear some room in your inventory first!"
+OfflinePlayer: "&c>&7 Sorry, that player could not be found."
+RuneNotFound: "&c>&7 Sorry, that rune could not be found."
+GiveRune: "&a>&7 %player% has been given the %rune% rune."
+GiveShards: "&a>&7 %player% has been given %amount% %rarity%&7 shards."
+TakeShards: "&a>&7 %player% has lost %amount% %rarity%&7 shards."
+ReloadFiles: "&a>&7 Files have successfully been reloaded."
+Invalid-Version: "&c>&7 Sorry, that rune is not available in MC v%version%."
+Go-Back-Item: "&c< Go Back"
+No-More-Forge-Slots: "&c>&7 Sorry, you have no available forge slots."
+Not-Enough-Shards: "&c>&7 Sorry, you do not have enough shards to forge this rune."
+Rune-Bag-Error: "&c>&7 Rune bags can only hold runes!"
+Rune-Bag-Stack-Error: "&c>&7 Sorry, you cannot stack runes in the rune bag!"
+Cannot-Afford-Rune: "&c>&7 Sorry, you cannot afford to buy this rune."
+Rune-Forging-Complete: "&a>&7 Hey! Your %rune% is finished forging."
+No-More-Slots: "&c>&7 Sorry, you don't have enough slots!"
+Bought-Rune: "&a>&7 You bought &b%rune% &7rune for &b$%cost%."
+
+# Message sent when player does not have permission for something.
+NoPermission: "&c>&7 Sorry, you do not have permission to use this."
+
+# Inventorys
+
+#  Main Menu Inventory
+Main-Inventory-Name: "&4RuneStones - Main Menu"
+Rune-Shard-Item-Name: "&bRune Shards"
+Rune-View-Item-Name: "&aMy Runes"
+Rune-Shop-Item-Name: "&6&l$&r&e Rune Shop &6&l$"
+
+#  My Runes Inventory
+Rune-Inventory-Name: "&4RuneStones - Your Runes"
+
+#  Shards Menu Inventory
+Shard-Menu-Inventory-Name: "&4RuneStones - Shards"
+Shatter-Shard-Item-Name: "&cShatter Runes"
+Forge-Rune-Item-Name: "&aForge Runes"
+
+#  Shatter Rune Inventory
+Shatter-Rune-Inventory-Name: "&4Shatter Runes"
+
+#  Forge Rune Inventory
+Forge-Inventory-Name: "&2Forge Runes"
+
+#  Rune Bag
+Rune-Bag-Name: "&5Rune Bag &8(LvL %level%)"
+
+#  Rune Shop
+Rune-Shop-Name: "&5Rune Shop"
+Rune-Item-Lore: "&f> &7Click to purchase\n&bCost: $%cost%\n%rarity%"
+
